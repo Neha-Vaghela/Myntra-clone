@@ -286,7 +286,6 @@ nav {
 .deal-img {
     display: flex;
     justify-content: center;
-    cursor: pointer;
 }
 
 .deal-img img {
@@ -335,5 +334,4 @@ nav {
 
 .footer-img img {
     width: 100%;
-
 }
